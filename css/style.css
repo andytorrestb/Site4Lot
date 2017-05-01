@@ -31,3 +31,10 @@
 	padding: 0;
 	margin: 0;
 }
+
+#finesse {
+width: 110px;
+	margin: auto;
+	border-width: 3px;
+	border-color: #f44;
+}
